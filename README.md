@@ -3,7 +3,6 @@
 <h2>📖 Studies</h2>
 <p><ul>
   <li>Computer Engineering undergraduate at UFAL</li>
-  <li>+praTi Full Stack Development track student</li>
 </ul></p>
 
 <h2>🌱 Currently Learning</h2>
